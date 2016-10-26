@@ -12,7 +12,7 @@ define('DB_USER','root'); // eampleev
 define('DB_PASS',''); // password
 define('DB_NAME','photoGallery'); // test_db // photoGallery // test1
 
-define('ROOT_TITLE', 'Фотогалерея');
+define('ROOT_TITLE', 'Gileson');
 
 require_once (LIB_DIR . '/core.php');
 require_once (LIB_DIR . '/db.php');
