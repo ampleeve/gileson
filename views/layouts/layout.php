@@ -1,8 +1,9 @@
 <?php
-/**
+/*
  * @var string $title Заголовок страницы
  * @var string $content Контент
  */
+
 
 ?>
 
