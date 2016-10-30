@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c9dc91-94ad-4ea3-b321-779623cc060e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/articleController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/article.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/article/article.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/066a0969c924611f3d2dc3a6a64baf8e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/13cc82762fda5e471261552f42abf697.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/25903d0df71ab2f7fc3766830b3dd06c.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/2ddd34c4d9cb89b6c9ec06a6c4dfc5f2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/35c5d9b38976c5e36ecb2f7dece1b0f9.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/423c2c598353a45fecfa398cb34fd94a.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/4a4bbb02b1673f3fd953ddb3b354239e.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/512e37a88c8bfef660cbdb62e7fa207f.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/5be5f9d24b36548fd417e35a8a852bbb.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/71020b01b0b9c95b0fcef1fc6ba5a643.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/7112563a83e759be83d1d615b65c2894.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/9a1ef0feaeafac24cafc1b5110575265.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/ac11244e50982c059faf5252cc266ac6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/ad3a9cb69ab4d9192652b272ad29a2ee.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/b8aacdeca587f151c573100da2d241a0.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/c7b097a91135253539f9afae299d2a75.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/full/f74d86e7eff25a9c5f3ea8b595f7b377.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/066a0969c924611f3d2dc3a6a64baf8e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/13cc82762fda5e471261552f42abf697.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/25903d0df71ab2f7fc3766830b3dd06c.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/2ddd34c4d9cb89b6c9ec06a6c4dfc5f2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/35c5d9b38976c5e36ecb2f7dece1b0f9.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/423c2c598353a45fecfa398cb34fd94a.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/4a4bbb02b1673f3fd953ddb3b354239e.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/512e37a88c8bfef660cbdb62e7fa207f.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/5be5f9d24b36548fd417e35a8a852bbb.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/71020b01b0b9c95b0fcef1fc6ba5a643.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/7112563a83e759be83d1d615b65c2894.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/9a1ef0feaeafac24cafc1b5110575265.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/ac11244e50982c059faf5252cc266ac6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/ad3a9cb69ab4d9192652b272ad29a2ee.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/b8aacdeca587f151c573100da2d241a0.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/c7b097a91135253539f9afae299d2a75.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/i/min/f74d86e7eff25a9c5f3ea8b595f7b377.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/galleryController.php" afterPath="$PROJECT_DIR$/controllers/galleryController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/imageController.php" afterPath="$PROJECT_DIR$/controllers/imageController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/indexController.php" afterPath="$PROJECT_DIR$/controllers/indexController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/gallery.php" afterPath="$PROJECT_DIR$/models/gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/articles/articles.php" afterPath="$PROJECT_DIR$/views/articles/articles.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/catalog/catalog.php" afterPath="$PROJECT_DIR$/views/catalog/catalog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/gallery/gallery.php" afterPath="$PROJECT_DIR$/views/gallery/gallery.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/image/image.php" afterPath="$PROJECT_DIR$/views/image/image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/layout.php" afterPath="$PROJECT_DIR$/views/layouts/layout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/registration/registration.php" afterPath="$PROJECT_DIR$/views/registration/registration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contacts/contacts.php" afterPath="$PROJECT_DIR$/views/contacts/contacts.php" />
     </list>
     <ignored path="gileson.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -151,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/registration/registration.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="580">
@@ -161,15 +113,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/gallery.php">
+      <file leaf-file-name="contacts.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/contacts/contacts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1635">
-              <caret line="109" column="1" selection-start-line="109" selection-start-column="1" selection-end-line="109" selection-end-column="1" />
-              <folding>
-                <marker date="1477819001000" expanded="true" signature="50:95" ph="SELECT * FRO... images" />
-                <marker date="1477819001000" expanded="true" signature="785:889" ph="INSERT INTO images... " />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,7 +133,6 @@
       <list>
         <option value="$PROJECT_DIR$/../../xamppfiles/etc/extra/httpd-vhosts.conf" />
         <option value="$PROJECT_DIR$/controllers/contactsController.php" />
-        <option value="$PROJECT_DIR$/views/contacts/contacts.php" />
         <option value="$PROJECT_DIR$/controllers/registrationController.php" />
         <option value="$PROJECT_DIR$/controllers/catalogController.php" />
         <option value="$PROJECT_DIR$/controllers/articlesController.php" />
@@ -203,6 +151,7 @@
         <option value="$PROJECT_DIR$/controllers/galleryController.php" />
         <option value="$PROJECT_DIR$/controllers/imageController.php" />
         <option value="$PROJECT_DIR$/views/registration/registration.php" />
+        <option value="$PROJECT_DIR$/views/contacts/contacts.php" />
       </list>
     </option>
   </component>
@@ -285,6 +234,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gileson.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gileson.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -340,6 +307,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gileson.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gileson.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contacts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -464,12 +449,12 @@
       <workItem from="1477671443252" duration="38000" />
       <workItem from="1477671506486" duration="2551000" />
       <workItem from="1477744005662" duration="458000" />
-      <workItem from="1477812125367" duration="5863000" />
+      <workItem from="1477812125367" duration="6738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12518000" />
+    <option name="totallyTimeSpent" value="13393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="836" extended-state="0" />
@@ -718,14 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/contacts/contacts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/catalogController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -910,14 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/image/image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="24" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/registration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -930,6 +899,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/image/image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contacts/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
       </provider>
