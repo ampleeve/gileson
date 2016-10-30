@@ -12,7 +12,7 @@
 
 function actionIndex(){
     require_once (MODELS_DIR . '/' . 'images.php');
-    return render('index', [], ['title' => ROOT_TITLE, 'menu' => "Главная"]);
+    return render('index', [], ['title' => ROOT_TITLE]);
 }
 
 /**

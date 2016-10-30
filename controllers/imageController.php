@@ -23,7 +23,7 @@ function actionShowImage(){
         throwError('Картинка не найдена');
     }
     addPopularity($image['id']);
-    return render('image', ['image' => $image], ['title' =>  $image['title'] .' :: ' . ROOT_TITLE]);
+    return render('image', ['image' => $image], ['title' =>  $image['title'] .' :: ' . ROOT_GALLERY .' :: ' . ROOT_TITLE]);
 
 
 }

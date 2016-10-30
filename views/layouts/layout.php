@@ -17,7 +17,7 @@
         <div>
             <ul>
                 <li><a href="/">Главная</a></li>
-                <li><a href="/?controller=gallery&action=Gallery">Статьи</a></li>
+                <li><a href="/?controller=articles&action=Articles">Статьи</a></li>
                 <li><a href="/?controller=catalog&action=Catalog">Каталог</a></li>
                 <li><a href="/?controller=gallery&action=Gallery">Галерея изображений</a></li>
                 <li><a href="/?controller=registration&action=Registration">Регистрация</a></li>
