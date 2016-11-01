@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+body {
+    background: url(../i/background1.jpg) right top no-repeat;
+}
+li a {
+    font-family: "Times New Roman", serif, Verdana;
+    color: cadetblue;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: aliceblue;
+}
+h2.headArticle a {
+    font: 24pt/1pt sans-serif;
+    text-decoration: none;
+    border-bottom: solid;
+}
+p.announcement {
+    background-color: #cbeeff;
+}
+a.moreDetails:hover {
+    text-decoration: none;
+    color: #ff2128;
+}
+a.goToComments {
+    color: grey;
+}
+h1.headArticle {
+    text-align: center;
+}
+p.articleFull:first-letter{
+    font-family: "Times New Roman", Times, serif; /* Гарнитура шрифта первой буквы */
+    font-size: 200%; /* Размер шрифта первого символа */
+    color: red; /* Красный цвет текста */
+}
+ul.catalogCat {
+    list-style-image: url(../i/marrk.png);
+    background-color: aqua;
+    width: 20%;
+}
+li ul {
+    list-style-image: url(../i/marrk1.png);
+    font-size: smaller;
+    background-color: aliceblue;
+}
+li.new:after {
+    content: "new";
+    color: white;
+    background-color: red;
+    margin-left: 2px;
+}
+img.galleryImage {
+    border: 100px solid black;
+}
+img.galleryImage:hover {
+    border: none;
+    /*padding: 4px;*/
+}
+

@@ -12,7 +12,7 @@
         <head>
             <meta charset="UTF-8">
             <title><?= $title; ?></title>
-        </head>
+            <link rel="stylesheet" type="text/css" href="/css/style.css">
         <body>
         <div>
             <ul>
