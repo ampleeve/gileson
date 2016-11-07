@@ -52,10 +52,123 @@ li.new:after {
     margin-left: 2px;
 }
 img.galleryImage {
-    border: 100px solid black;
+    border: 4px solid black;
+    width: 50px;
 }
 img.galleryImage:hover {
     border: none;
-    /*padding: 4px;*/
+    padding: 4px;
 }
 
+input.rFrorm {
+    width: 150px;
+}
+
+input.rPassword {
+    width:200px;
+}
+input.rPassword: {
+    background-color: aqua;
+    color:indianred;
+}
+input.submit:active{
+    background-color: aqua;
+}
+input.reset:active{
+    background-color: #ff0013;
+}
+input.checkbox:hover{
+    border: 1px;
+}
+input[name = "surname"]{
+    text-transform: capitalize;
+}
+label#men:hover {
+    border: 4px double black;
+}
+/*
+Первая таблица
+td{
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+}
+table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+#cell1{
+    max-width: 50px;
+}
+*/
+
+/*
+td{
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+}
+table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+#cell1{
+    max-width: 50px;
+}
+#td1{
+    height: 40px;
+}
+*/
+
+/*
+вторая таблица
+td{
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+}
+table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 100%;
+}
+#td1{
+    height: 50px;
+}
+#td2{
+    width: 33%;
+    height: 50px;
+}
+#td4{
+    width: 33%;
+}
+#td5{
+    width: 33%;
+}
+#td7{
+    width: 33%;
+}
+#table1{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+#td11{
+    height: 50px;
+}
+#td17{
+    height: 50px;
+}
+*/
+
+table #registration{
+    text-align:left;
+    margin: auto;
+}
+td.textForm{
+    text-align:right;
+    vertical-align: text-top;
+}

@@ -14,7 +14,35 @@
             <title><?= $title; ?></title>
             <link rel="stylesheet" type="text/css" href="/css/style.css">
         <body>
-        <div>
+        <table id="main" border="1px">
+            <tr id="header">
+               <td colspan="2">
+                   &nbsp;
+               </td>
+            </tr>
+            <tr id="menu">
+                <td colspan="2">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr id="content">
+                <td id="left">
+                    &nbsp;
+                </td>
+                <td id="center">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr id="footer">
+                <td colspan="2">
+                    &nbsp;
+                </td>
+            </tr>
+        </table>
+        </body>
+
+</html>
+        <!--<div>
             <ul>
                 <li><a href="/">Главная</a></li>
                 <li><a href="/?controller=articles&action=Articles">Статьи</a></li>
@@ -32,7 +60,4 @@
                 <p>© Gileson, 2015 - 2016</p>
             </div>
         </footer>
-
-        </body>
-
-    </html>
+    -->
