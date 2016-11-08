@@ -1,69 +1,20 @@
 <?php
 ?>
 
-<div>
-    <h1>Заголовок h1 Главной страницы</h1>
-</div>
-<!--
-вторая таблица
-<table>
+<table id="slider">
     <tr>
-        <td id="td1" colspan="2">&nbsp;</td>
-        <td id="td2">&nbsp;</td>
+        <td id="row1Slider" rowspan="2">right is pink.<br>left is blue.</td>
+        <td rowspan="4">2</td>
+        <td rowspan="4">3</td>
     </tr>
     <tr>
-        <td id="td4">&nbsp;</td>
-        <td id="td5" colspan="2" rowspan="2">
-            <table id="table1">
-                <tr>
-                    <td id="td11">&nbsp;</td>
-                    <td rowspan="3">&nbsp;</td>
-                    <td rowspan="2">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td rowspan="2">&nbsp;</td>
-                </tr>
-                <tr>
-                    <td id="td17">&nbsp;</td>
-                </tr>
-            </table>
-        </td>
     </tr>
     <tr>
-        <td id="td7">&nbsp;</td>
+        <td id="row2Slider">Inspired by Brasil’s bold colors and matching up to football’s on-pitch
+            playmakers, these kicks are ready to stand out.</td>
+    </tr>
+    <tr>
+        <td id="row3Slider">shop brazil</td>
     </tr>
 </table>
--->
- <!--
- Первая таблица
-<table>
-    <tr>
-        <td rowspan="3">1</td>
-        <td id="td1">2</td>
-        <td id="td1">3</td>
-    </tr>
-    <tr>
-        <td colspan="2">4</td>
-    </tr>
-    <tr>
-        <td id="td1">7</td>
-        <td id="td1">8</td>
-    </tr>
-</table>
--->
-<!--
-<table>
-    <tr>
-        <td id="cell1" rowspan="3">1</td>
-        <td colspan="2">2</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td rowspan="2">4</td>
-    </tr>
-    <tr>
-        <td>5</td>
-    </tr>
-</table>
--->
 
