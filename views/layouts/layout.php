@@ -14,34 +14,31 @@
             <title><?= $title; ?></title>
             <link rel="stylesheet" type="text/css" href="/css/style.css">
         <body>
-        <table id="main" border="1px">
-            <tr id="header">
-               <td colspan="2">
-                   &nbsp;
-               </td>
-            </tr>
-            <tr id="menu">
-                <td colspan="2">
-                    &nbsp;
-                </td>
-            </tr>
-            <tr id="content">
-                <td id="left">
-                    &nbsp;
-                </td>
-                <td id="center">
-                    &nbsp;
-                </td>
-            </tr>
-            <tr id="footer">
-                <td colspan="2">
-                    &nbsp;
-                </td>
-            </tr>
-        </table>
-        </body>
 
-</html>
+        <div id="d1">
+            <div id="d11"></div>
+            <div id="d12"></div>
+            <div id="d13"></div>
+            <div id="d14"></div>
+        </div>
+        <div id="d2">
+            <div id="d21">
+            </div>
+        </div>
+        <div id="d3"></div>
+        <div id="d4"></div>
+        <div id="d5"></div>
+
+        <div id="menu">
+            <div id="pm">
+                <div id="pm1"><a class="pm" href="#"> Пункт 1</a></div>
+                <div id="pm2"><a class="pm" href="#"> Пункт 2</a></div>
+                <div id="pm3"><a class="pm" href="#"> Пункт 3</a></div>
+                <div id="pm4"><a class="pm" href="#"> Пункт 4</a></div>
+                <div id="pm5"><a class="pm" href="#"> Пункт 5</a></div>
+            </div>
+        </div>
+
         <!--<div>
             <ul>
                 <li><a href="/">Главная</a></li>
@@ -59,5 +56,7 @@
             <div>
                 <p>© Gileson, 2015 - 2016</p>
             </div>
-        </footer>
-    -->
+        </footer>-->
+        </body>
+
+</html>

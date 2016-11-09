@@ -1,174 +1,145 @@
-html {
-    height: 100%;
+html{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
-body {
-    background: url(../i/background1.jpg) right top no-repeat;
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
-li a {
-    font-family: "Times New Roman", serif, Verdana;
-    color: cadetblue;
-    font-variant: small-caps;
-    font-weight: bold;
-    font-size: 20px;
-    background-color: aliceblue;
+div{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
-h2.headArticle a {
-    font: 24pt/1pt sans-serif;
-    text-decoration: none;
-    border-bottom: solid;
+span{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
-p.announcement {
-    background-color: #cbeeff;
+
+#d1{
+    display: block;
+    border: 1px solid black;
+    margin:100px;
+    padding:0px;
+    width: 250px;
+    height: 250px;
+    z-index: 98;
 }
-a.moreDetails:hover {
-    text-decoration: none;
-    color: #ff2128;
+#d11, #d12, #d13, #d14{
+    width: 125px;
+    height: 125px;
+    position: relative;
+    z-index: 98;
 }
-a.goToComments {
-    color: grey;
+#d11{
+    background-color: green;
 }
-h1.headArticle {
-    text-align: center;
+#d12{
+    background-color: black;
 }
-p.articleFull:first-letter{
-    font-family: "Times New Roman", Times, serif; /* Гарнитура шрифта первой буквы */
-    font-size: 200%; /* Размер шрифта первого символа */
-    color: red; /* Красный цвет текста */
+
+#d13, #d14{
+    left: 125px;
+    top: -250px;
 }
-ul.catalogCat {
-    list-style-image: url(../i/marrk.png);
-    background-color: aqua;
-    width: 20%;
+#d13{
+    background-color: yellow;
+
 }
-li ul {
-    list-style-image: url(../i/marrk1.png);
-    font-size: smaller;
-    background-color: aliceblue;
+#d14{
+    background-color: brown;
 }
-li.new:after {
-    content: "new";
-    color: white;
+#d2{
+    display: block;
+    border: 1px solid black;
+    margin:0px;
+    padding:10px;
+    width: 480px;
+    height: 230px;
+    background-color: grey;
+    position: relative;
+    left: 400px;
+    top: -350px;
+    z-index: 99;
+}
+#d21{
+    width: 480px;
+    height: 230px;
     background-color: red;
-    margin-left: 2px;
+
 }
-img.galleryImage {
-    border: 4px solid black;
-    width: 50px;
-}
-img.galleryImage:hover {
+
+#d3, #d4, #d5{
+    display: block;
     border: none;
-    padding: 4px;
+    width: 125px;
+    height: 125px;
+    background-color: blue;
+    position: absolute;
+    left: 0px;
+    top: 300px;
 }
 
-input.rFrorm {
-    width: 150px;
+#d3{
+    left: 310px;
+    z-index: 97;
+}
+#d4{
+    left: 440px;
+    z-index: 100;
+}
+#d5{
+    left: 570px;
 }
 
-input.rPassword {
-    width:200px;
+#menu{
+    display: block;
+    border: none;
+    width: 620px;
+    height: 130px;
+    background-color: rgba(201, 200, 205, 0.28);
+    position: absolute;
+    left: 170px;
+    top: 500px;
+    padding: 10px;
 }
-input.rPassword: {
-    background-color: aqua;
-    color:indianred;
+#pm{
+    width: 620px;
+    height: 130px;
+    background-color: red;
 }
-input.submit:active{
-    background-color: aqua;
+#pm1, #pm2, #pm3, #pm4, #pm5{
+    display: block;
+    border: none;
+    width: 120px;
+    height: 125px;
+    position: relative;
 }
-input.reset:active{
-    background-color: #ff0013;
+#pm2{
+    left: 125px;
+    top:-125px;
 }
-input.checkbox:hover{
-    border: 1px;
+#pm3{
+    left: 250px;
+    top:-250px;
 }
-input[name = "surname"]{
-    text-transform: capitalize;
+#pm4{
+    left: 375px;
+    top:-375px;
 }
-label#men:hover {
-    border: 4px double black;
+#pm5{
+    left: 500px;
+    top:-500px;
 }
-/*
-Первая таблица
-td{
-    border: 1px solid grey;
-    width: 100px;
-    height: 100px;
-}
-table{
-    border-spacing: 0px;
-    border-collapse: collapse;
-    width: 100%;
-}
-#cell1{
-    max-width: 50px;
-}
-*/
-
-/*
-td{
-    border: 1px solid grey;
-    width: 100px;
-    height: 100px;
-}
-table{
-    border-spacing: 0px;
-    border-collapse: collapse;
-    width: 100%;
-}
-#cell1{
-    max-width: 50px;
-}
-#td1{
-    height: 40px;
-}
-*/
-
-/*
-вторая таблица
-td{
-    border: 1px solid grey;
-    width: 100px;
-    height: 100px;
-}
-table{
-    border-spacing: 0px;
-    border-collapse: collapse;
-    width: 100%;
-}
-#td1{
-    height: 50px;
-}
-#td2{
-    width: 33%;
-    height: 50px;
-}
-#td4{
-    width: 33%;
-}
-#td5{
-    width: 33%;
-}
-#td7{
-    width: 33%;
-}
-#table1{
-    border-spacing: 0px;
-    border-collapse: collapse;
-    width: 80%;
-    margin: auto;
-}
-#td11{
-    height: 50px;
-}
-#td17{
-    height: 50px;
-}
-*/
-
-table #registration{
-    text-align:left;
-    margin: auto;
-}
-td.textForm{
-    text-align:right;
-    vertical-align: text-top;
+.pm{
+    display: block;
+    border: none;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    height: 20px;
+    padding-top: 10px;
 }
