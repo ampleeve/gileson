@@ -14,29 +14,9 @@
             <title><?= $title; ?></title>
             <link rel="stylesheet" type="text/css" href="/css/style.css">
         <body>
-
-        <div id="d1">
-            <div id="d11"></div>
-            <div id="d12"></div>
-            <div id="d13"></div>
-            <div id="d14"></div>
-        </div>
-        <div id="d2">
-            <div id="d21">
-            </div>
-        </div>
-        <div id="d3"></div>
-        <div id="d4"></div>
-        <div id="d5"></div>
-
-        <div id="menu">
-            <div id="pm">
-                <div id="pm1"><a class="pm" href="#"> Пункт 1</a></div>
-                <div id="pm2"><a class="pm" href="#"> Пункт 2</a></div>
-                <div id="pm3"><a class="pm" href="#"> Пункт 3</a></div>
-                <div id="pm4"><a class="pm" href="#"> Пункт 4</a></div>
-                <div id="pm5"><a class="pm" href="#"> Пункт 5</a></div>
-            </div>
+        <div class="menu">
+                <a href="#"> Пункт 1</a>
+                <img src="../i/menu_test_div.jpg">
         </div>
 
         <!--<div>

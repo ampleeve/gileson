@@ -19,127 +19,37 @@ span{
     border: 0px;
 }
 
-#d1{
-    display: block;
-    border: 1px solid black;
-    margin:100px;
-    padding:0px;
-    width: 250px;
-    height: 250px;
-    z-index: 98;
-}
-#d11, #d12, #d13, #d14{
-    width: 125px;
-    height: 125px;
-    position: relative;
-    z-index: 98;
-}
-#d11{
-    background-color: green;
-}
-#d12{
-    background-color: black;
+div.menu{
+    margin: 10px 6px;
+    padding: 0px;
+    width: 200px;
+    height: 240px;
+    float: left;
+    border: 1px solid transparent;
 }
 
-#d13, #d14{
-    left: 125px;
-    top: -250px;
-}
-#d13{
-    background-color: yellow;
-
-}
-#d14{
-    background-color: brown;
-}
-#d2{
-    display: block;
-    border: 1px solid black;
-    margin:0px;
-    padding:10px;
-    width: 480px;
-    height: 230px;
-    background-color: grey;
-    position: relative;
-    left: 400px;
-    top: -350px;
-    z-index: 99;
-}
-#d21{
-    width: 480px;
-    height: 230px;
-    background-color: red;
-
-}
-
-#d3, #d4, #d5{
-    display: block;
-    border: none;
-    width: 125px;
-    height: 125px;
-    background-color: blue;
-    position: absolute;
-    left: 0px;
-    top: 300px;
-}
-
-#d3{
-    left: 310px;
-    z-index: 97;
-}
-#d4{
-    left: 440px;
-    z-index: 100;
-}
-#d5{
-    left: 570px;
-}
-
-#menu{
-    display: block;
-    border: none;
-    width: 620px;
-    height: 130px;
-    background-color: rgba(201, 200, 205, 0.28);
-    position: absolute;
-    left: 170px;
-    top: 500px;
-    padding: 10px;
-}
-#pm{
-    width: 620px;
-    height: 130px;
-    background-color: red;
-}
-#pm1, #pm2, #pm3, #pm4, #pm5{
-    display: block;
-    border: none;
-    width: 120px;
-    height: 125px;
-    position: relative;
-}
-#pm2{
-    left: 125px;
-    top:-125px;
-}
-#pm3{
-    left: 250px;
-    top:-250px;
-}
-#pm4{
-    left: 375px;
-    top:-375px;
-}
-#pm5{
-    left: 500px;
-    top:-500px;
-}
-.pm{
-    display: block;
-    border: none;
-    background-color: brown;
+div.menu a{
     color: white;
+    background: red;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin: 0 0;
     text-align: center;
-    height: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
+    position: relative;
+}
+div.menu:hover a{
+    color: black;
+    background-color: yellow;
+}
+div.menu:hover{
+    border: 1px solid #000;
+}
+div.menu img{
+    text-align: center;
+    padding: 0px;
+    display: inline-block;
+    margin: 10px 9px;
+    border-collapse: collapse;
 }

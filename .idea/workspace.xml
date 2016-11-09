@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00c9dc91-94ad-4ea3-b321-779623cc060e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index/index.php" afterPath="$PROJECT_DIR$/views/index/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layouts/layout.php" afterPath="$PROJECT_DIR$/views/layouts/layout.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
     </list>
@@ -30,8 +29,8 @@
           <file leaf-file-name="layout.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/views/layouts/layout.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+                <state relative-caret-position="285">
+                  <caret line="19" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
                   <folding>
                     <element signature="e#6#85#0#PHP" expanded="true" />
                   </folding>
@@ -136,8 +135,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/www/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="636">
-                  <caret line="119" column="1" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+                <state relative-caret-position="330">
+                  <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -507,12 +506,12 @@
       <workItem from="1477888199684" duration="12688000" />
       <workItem from="1478065304579" duration="4826000" />
       <workItem from="1478305920355" duration="9688000" />
-      <workItem from="1478625470886" duration="16094000" />
+      <workItem from="1478625470886" duration="17544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57689000" />
+    <option name="totallyTimeSpent" value="59139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -913,21 +912,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/layouts/layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
